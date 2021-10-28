@@ -1,2 +1,2 @@
-# bdd
+# BDD
 Bayesian Data Description
